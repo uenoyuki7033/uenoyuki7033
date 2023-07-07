@@ -10,7 +10,7 @@ https://wiki.centos.org/Download
 ----
 [2ページ目](readme2)
 
-[マークダウン記述](readme2)
+[マークダウン記述](マークダウン記述)
 
 pukiwikiと少し違う
 -
