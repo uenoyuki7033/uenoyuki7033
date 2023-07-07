@@ -8,11 +8,10 @@ http://beta.vinelinux.org
 https://wiki.centos.org/Download
 
 ----
-[2ページ目](readme2)
 
+[2ページ目](readme2.md)
 [マークダウン記述](マークダウン記述)
 
-pukiwikiと少し違う
 -
 -
 -
