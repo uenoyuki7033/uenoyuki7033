@@ -1,15 +1,17 @@
 上野用メモ　publicなので、記載する情報に注意すること
+
 ---
 
 # OS旧バージョンのダウンロード先
-## vinelinux
+- vinelinux
 http://beta.vinelinux.org
-## centos
+- centos
 https://wiki.centos.org/Download
 
-----
+---
 
 [2ページ目](readme2.md)
+
 [マークダウン記述](マークダウン記述)
 
 -
