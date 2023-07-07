@@ -2,7 +2,7 @@
 
 ---
 
-# OS旧バージョンのダウンロード先
+# OS old ver download link
 - vinelinux
 http://beta.vinelinux.org
 - centos
