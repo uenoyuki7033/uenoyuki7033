@@ -6,7 +6,7 @@ http://beta.vinelinux.org
 ## centos
 https://wiki.centos.org/Download
 ----
-*[readme2]
+*[2ページ目](readme2)
 -
 -
 -
